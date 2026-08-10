@@ -49,8 +49,3 @@ user guide (different per tab) and the About window.
   the original WorldsPlayer tools this app uses as its engine to
   generate and preview files. They are not part of this project and are
   distributed here only so the app can run.
-
-## Source code
-
-This repository ships only the executable and the files needed to run
-it. Source code is not published.
