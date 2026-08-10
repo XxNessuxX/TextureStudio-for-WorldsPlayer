@@ -1,4 +1,8 @@
-![Texture Studio icon](screenshots/texturestudioicon.png) Texture Studio for WorldsPlayer
+<p align="center">
+  <img src="screenshots/icon.png" width="120">
+</p>
+
+# Texture Studio for WorldsPlayer
 
 Desktop app with 4 tabs to create and view WorldsPlayer textures and
 holograms (.cmp / .mov): image cutting, batch packing, and a built in
