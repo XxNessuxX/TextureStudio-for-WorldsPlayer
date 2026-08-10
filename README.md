@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/icon.png" width="120">
+  <img src="screenshots/texturestudioicon.png" width="250">
 </p>
 
 # Texture Studio for WorldsPlayer
