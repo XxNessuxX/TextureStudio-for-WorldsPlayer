@@ -31,7 +31,7 @@ user guide (different per tab) and the About window.
 
 ## Download and setup
 
-1. Download the .zip from the [latest release](https://github.com/XxNessuxX/Texture-Studio-for-WorldsPlayer/releases).
+1. Download the .zip from the [latest release](https://github.com/XxNessuxX/TextureStudio-for-WorldsPlayer/releases).
 2. Unzip it into any folder. Everything needed goes together:
    - `TextureStudio.exe`
    - `compimg.exe`
